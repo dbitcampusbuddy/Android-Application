@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "631050674426",
+    "firebase_url": "https://campusbuddy-5f22a.firebaseio.com",
+    "project_id": "campusbuddy-5f22a",
+    "storage_bucket": "campusbuddy-5f22a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631050674426:android:edd0bd87253bbfd760e943",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631050674426-1k4cue3pf83agkte8ih95dbgbg4e45bj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.demo",
+            "certificate_hash": "22a781075e486002e5d98ac7dd75c72649f64912"
+          }
+        },
+        {
+          "client_id": "631050674426-rmvou6er2j61qsbl386867c8o0tqujb0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6K3dwDufxAjfKeWTPJGnf4IR5cbAmu4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631050674426-rmvou6er2j61qsbl386867c8o0tqujb0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

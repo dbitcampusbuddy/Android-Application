@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/attendance"
+        android:title="Attendance"
+        android:icon="@drawable/ic_attendance" />
+
+    <item
+        android:id="@+id/exam"
+        android:title="Examination"
+        android:icon="@drawable/ic_exam" />
+
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:icon="@drawable/ic_home"/>
+
+    <item
+        android:id="@+id/events"
+        android:title="Events"
+        android:icon="@drawable/ic_events"/>
+
+    <item
+        android:id="@+id/placements"
+        android:title="Placements"
+        android:icon="@drawable/ic_placement" />
+
+</menu>

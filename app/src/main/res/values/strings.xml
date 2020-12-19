@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Demo</string>
+    <string name="about">About</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="home">Home</string>
+    <string name="events">Events</string>
+    <string name="examinantion">Examinantion</string>
+    <string name="placements">Placements</string>
+    <string name="attendance">Attendance</string>
+    <string name="comps">COMPS</string>
+    <string name="it">I.T.</string>
+    <string name="mech">MECH</string>
+    <string name="extc">EXTC</string>
+    <string name="apply_filters">Apply Filters</string>
+    <string name="csi">CSI</string>
+    <string name="ishraee">ISHRAEE</string>
+    <string name="acm">ACM</string>
+    <string name="concil">CONCIL</string>
+    <string name="ieee">IEEE</string>
+    <string name="view_attendance">View Attendance</string>
+    <string name="leave_application">Leave Application</string>
+    <string name="start_date">Start Date -</string>
+    <string name="end_date">End Date -</string>
+    <string name="reason">Reason</string>
+    <string name="reason_hint">State the reason for your absense here.</string>
+    <string name="dd_mm_yyyy">dd/mm/yyyy</string>
+    <string name="upload_file">+ Upload File</string>
+    <string name="semester">Semester</string>
+    <string name="subject">Subject</string>
+    <string name="ia_1">IA 1</string>
+    <string name="ia_2">IA 2</string>
+    <string name="endsem">EndSem</string>
+    <string name="cgpa">CGPA</string>
+    <string name="enter_end_sem_marks">Enter End Sem Marks</string>
+    <string name="enter_subject_name">Enter Subject Name</string>
+    <string name="enter_ia1_marks">Enter IA1 Marks</string>
+    <string name="enter_sem">Enter Sem</string>
+    <string name="enter_subject">Enter Subject</string>
+    <string name="enter_ia2_marks">Enter IA2 Marks</string>
+    <string name="enter_cgpa">Enter cgpa</string>
+    <string name="submit">Submit</string>
+    <string name="end_sem">End Sem</string>
+    <string name="edit">Edit</string>
+    <string name="cgpa_colon">CGPA :</string>
+    <string name="save">Save</string>
+    <string name="endsem5">EndSem5</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="todo">TODO</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="username">Username</string>
+    <string name="enter_username">Enter Username:</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="registration_form">Registration Form</string>
+    <string name="name">Name</string>
+    <string name="event_title">Event_Title</string>
+    <string name="event_desc">Event_desc</string>
+    <string name="dbitlogo">DbitLogo</string>
+    <string name="company">Company</string>
+    <string name="date">Date:</string>
+    <string name="event_name">Event Name</string>
+    <string name="organized_by">Organized By</string>
+    <string name="poster">poster</string>
+    <string name="org">org</string>
+
+
+    <string-array name="Events">
+        <item>GOC</item>
+        <item>Teknack</item>
+        <item>Mumbai Hackathon</item>
+        <item>Innovex</item>
+    </string-array>
+
+    <string-array name="organizer">
+        <item>CSI</item>
+        <item>ACM</item>
+        <item>CSI</item>
+        <item>DBIT</item>
+    </string-array>
+
+
+
+    <string-array name="desc">
+
+        <item>An annual programming competition designed to test your coding skills at the highest level!💯
+The competition will comprise of challenges that can be solved using maths, data structures and algorithms. </item>
+        <item>This is for Teknack.</item>
+        <item>CSI DBIT with ERPNext presents Mumbai Hackathon ‘20. It is platform with a vision to promote innovation and encourage students to challenge their own limits.
+
+A grand opportunity for everyone to turn their innovative ideas into reality and win cash prize worth ₹75,000 </item>
+        <item>This is for Innovex.</item>
+    </string-array>
+
+    <string-array name="Company">
+        <item>LTI</item>
+        <item>CapGemini</item>
+        <item>Xoriant</item>
+        <item>TCS</item>
+    </string-array>
+
+    <string-array name="date">
+        <item>20/09/2020</item>
+        <item>15/09/2020</item>
+        <item>20/07/2020</item>
+        <item>10/11/2020</item>
+    </string-array>
+</resources>
